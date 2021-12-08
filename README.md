@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a web developer interested in learning growing technologies. 
+you can find some of the projects in which I have contributed with my knowledge.
+
+soy un desarrollador web .interesado en aprender tecnologías en crecimiento.
+podrás encontrar algunos de los proyectos en los que eh aportado mis conocimientos.
